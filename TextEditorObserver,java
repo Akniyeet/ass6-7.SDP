@@ -1,0 +1,3 @@
+public interface TextEditorObserver {
+    void update(String eventType, String message);
+}
